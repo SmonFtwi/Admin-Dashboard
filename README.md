@@ -1,2 +1,2 @@
 # Admin-Dashboard
-This is SSH grid and flexbox practice project 
+This is CSS grid and Flexbox practice project 
